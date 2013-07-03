@@ -4,6 +4,10 @@
 
 但目前常见的重置样式方案对于样式继承关系没有太多要求，并且部分样式定义与浏览器内部默认样式定义一致，造成一定的样式定义重叠冗余，csscute-reset项目的作用就是构建一个合理且高效的重置样式。
 
+### 需要注意
+
+csscute-reset目前还处于实验阶段，实现过程并不完善，如果您愿意花点时间来研究并改进它，我们非常欢迎。
+
 ### csscute-reset包含的重置规则
 
 - 重置常见标签样式：html、body、p、pre、dl、dd、img、iframe、button、input、select、textarea、table、h1、h2、h3、h4、h5、h6、th、td、ol、ul、em
