@@ -13,4 +13,4 @@ csscute-reset目前还处于实验阶段，实现过程并不完善，如果您�
 - 重置常见标签样式：html、body、p、pre、dl、dd、img、iframe、button、input、select、textarea、table、h1、h2、h3、h4、h5、h6、th、td、ol、ul、em
 - (注意)当前版本并未包含对HTML5标签的重置定义
 - 初始默认链接样式：默认链接样式及链接悬浮样式
-- 常用样式定义：清除浮动、隐藏元素、省略号、人民币货币价格、文字适配
+- 常用样式定义：清除浮动、隐藏元素、省略号、人民币价格表示、文字适配
