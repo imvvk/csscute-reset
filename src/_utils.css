@@ -1,0 +1,13 @@
+a { color:#0069ca; text-decoration:none; }
+a:hover { color:#f60; text-decoration:none; }
+
+.clr { clear:both; height:0; overflow:hidden; }
+.clrfix { *zoom:1; }
+.clrfix:after { clear:both; display:block; height:0; visibility:hidden; content:"."; }
+
+.hide { display:none !important; }
+.hidden { visibility:hidden !important; }
+
+.m_ellipsis { text-overflow:ellipsis; white-space:nowrap; overflow:hidden; }
+.m_price { font-family:arial, sans-serif; font-style:normal; }
+.m_textadjust { -webkit-text-size-adjust:none; }
